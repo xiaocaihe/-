@@ -1,2 +1,3 @@
 # -
 lunshangxueyudaodeqipa
+print("wobuhui")
